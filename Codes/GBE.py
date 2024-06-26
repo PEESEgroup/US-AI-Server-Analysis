@@ -8,6 +8,7 @@ num_count=8
 for num in range (num_count):
     # create pyomo model for optimization problem
     model = ConcreteModel()
+    # Import the historical Nvidia revenue data
     revenue_data_1=[0.701, 0.760, 0.792, 0.679, 0.634, 0.655, 0.726, 0.968, 1.141, 
                     1.752, 1.900, 1.903, 2.048, 2.366, 2.936, 3.263,3.750,3.833,3.806,3.616,4.284,10.323,14.514,18.40]
     L=len(revenue_data_1)
@@ -27,6 +28,7 @@ for num in range (num_count):
     I_data=[]
     revenue_data=[]
     t_data=[]
+    #The total accumulated AI server market is calcualted based on the 5-year lifetime
     for i in range (L):
         revenue_data.append(sum(revenue_data_1[max(0,i-19):i+1]))
         t_data.append(i)
