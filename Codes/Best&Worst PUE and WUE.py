@@ -5,7 +5,6 @@ from os import listdir
 from os.path import isfile, join
 import warnings
 warnings.filterwarnings('ignore')
-import re
 import time
 import cyipopt
 from cyipopt import minimize_ipopt
