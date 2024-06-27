@@ -27,7 +27,7 @@ To run the codes in this repository, the following Python and core packages must
 
 ## Running the code
 ### Running the base case
-The file **Main.py** should be sued to run a base case for estimating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030. After download the codes and data, simply replace the "FILE PATH" used in the **Main.py** file with the install path of our data folder to run the simulation.
+The file **Main.py** can be used to run a base case for estimating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030. After download the codes and data, simply replace the "FILE PATH" used in the **Main.py** file with the install path of our data folder to run the simulation.
 ### Running the best/worst cases
 The best/worst cases for industry efficiency efforts and grid developments can be completed by replace the data file used or influential factor defined in **Main.py**. For spatial distribution analysis, please use the codes provided in **Spatial Distribution Analysis.py** to calculate the location information for replacing the spatial distribution codes in **Main.py**.
 
