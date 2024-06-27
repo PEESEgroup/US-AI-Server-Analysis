@@ -14,7 +14,7 @@ To run the codes in this repository, the following Python and core packages must
 ## Codes
 - **Best&Worst PUE and WUE.py**: This file contains the calculation process for generating the best and worst PUE and WUE cases for AI data centers.
 - **GBE.py**: This file provides the detailed process for developing the generalized Bass model used in this study.
-- **Main.py**: This file runs a basic procedure for generating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030.
+- **Main.py**: This file runs a base case for estimating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030.
 - **Spatial Distribution Analysis.py**: This file presents the calculation process for generating better AI server spatial allocation strategies.
 - **simulation_funs_DC_i.py**: This file defines the basic functions for evaluating the PUE and WUE values of AI data centers.
 
