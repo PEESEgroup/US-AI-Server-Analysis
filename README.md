@@ -33,9 +33,9 @@ To run the codes in this repository, the following Python and core packages must
 
 ## Running the code
 ### Running the base case
-The file **Main_Base_Scenario.py** can be used to run a base case for estimating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030. After download the codes and data, simply replace the "FILE PATH" used in the code file with the install path of our data folder to run the simulation.
+The file **Main_Base_Scenario.py** can be used to run a base case for estimating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030. After download the codes and data, simply replace the "FILE PATH" used in the code file with the install path of our data folder to run the simulation. The simulation results might slightly different with the reported value due to the random PUE and WUE selection within the code.
 ### Running the best/worst cases
-The other "Main" files can be used to run the best and worst practices considering carbon emission and water footprint. After download the codes and data, simply replace the "FILE PATH" used in the code file with the install path of our data folder to run the simulation.
+The other "Main" files can be used to run the best and worst practices considering carbon emission and water footprint. After download the codes and data, simply replace the "FILE PATH" used in the code file with the install path of our data folder to run the simulation. The simulation results might slightly different with the reported value due to the random PUE and WUE selection within the code.
 
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
