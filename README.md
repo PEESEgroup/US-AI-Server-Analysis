@@ -10,7 +10,7 @@ To run the codes in this repository, the following Python and core packages must
 - pyomo 6.5.0 with ipopt solver
 - csv 1.0
 - cyipopt 1.1.0
-- ReEDs 2.0 (Specific settings can be found in https://github.com/NREL/ReEDS-2.0/tree/main)
+- ReEDs 2.0 (specific settings can be found in https://github.com/NREL/ReEDS-2.0/tree/main)
 
 ## Codes
 - **Best&Worst PUE and WUE.py**: This file contains the calculation process for generating the best and worst PUE and WUE cases for AI data centers.
