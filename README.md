@@ -40,5 +40,5 @@ The other "Main" files can be used to run the best and worst practices consideri
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
 
-Xiao, T., You, F., AI Servers’ Energy, Water, and Climate Impact: Unveiling Net-zero Pathways in the U.S. by 2030. Submitted to Nature Climate Change.
+Xiao, T., Fuso-Nerini, F., Matthews, D., Tavoni, M., You, F., AI Servers’ Energy, Water, and Climate Impact: Unveiling Net-zero Pathways in the U.S. by 2030. Submitted to Nature Climate Change.
 
