@@ -10,12 +10,13 @@ To run the codes in this repository, the following Python and core packages must
 - pyomo 6.5.0 with ipopt solver
 - csv 1.0
 - cyipopt 1.1.0
-- ReEDs 2.0 (specific settings can be found in https://github.com/NREL/ReEDS-2.0/tree/main)
+- ReEDs 2.0 (specific settings can be found in https://github.com/NREL/ReEDS-2.0)
 
 ## Codes
 - **Best&Worst PUE and WUE.py**: This file contains the calculation process for generating the best and worst PUE and WUE cases for AI data centers.
 - **GBE.py**: This file provides the detailed process for developing the generalized Bass model used in this study.
 - **simulation_funs_DC_i.py**: This file defines the basic functions for evaluating the PUE and WUE values of AI data centers.
+- **LoadFile.py**: This file edit the baseline load file provided by the ReEDs 2.0 model (specific settings can be found in https://github.com/NREL/ReEDS-2.0) by involving AI server loads.
 - **Main_Base_Scenario.py**: This file runs a base case for estimating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030.
 - **Main_Best_Carbon_Scenario.py**: This file runs best carbon emission practice scenarios for AI servers in the U.S. from 2024 to 2030.
 - **Main_Worst_Carbon_Scenario.py**: This file runs worst carbon emission practice scenarios for AI servers in the U.S. from 2024 to 2030.
