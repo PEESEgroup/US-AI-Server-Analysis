@@ -29,6 +29,8 @@ To run the codes in this repository, the following Python and core packages must
 - **Water usage per unit of electricity data of each U.S. region from 2024 to 2030**: txt files with WF notation
 - **Spatial allocation ratio of each U.S. states**: txt files with spatial notation
 - **Settings for generating the grid factors through the ReEDs model**: cases_R2.csv
+- **Collected AI data center locations**: csv file with AI data center notation
+- **Example files of ReEDS model output**: emit_r.csv, gen_ann.csv, water_consumption_ivrt.csv
 
 ## Running the code
 ### Running the base case
