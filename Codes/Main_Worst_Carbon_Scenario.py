@@ -4,7 +4,7 @@ import math
 import csv
 
 # define scenario numbers
-tem_sce_num=3
+tem_sce_num=5
 spt_sce_num=1
 typ_sce_num=1
 
@@ -23,14 +23,13 @@ max_power_rate=0.88
 DLC_rate_0=0.05
 DLC_increase=0
 
-capacity_data=[[11.73527636,11.73527636,11.73527636],
-                [23.89338596,23.89338596,23.14655876],
-                [43.19965448,43.19965448,42.45282728],
-                [57.51826928,62.1646353,72.91723485],
-                [62.5129203,75.1409532,108.517235],
-                [60.44609946,81.6980179,139.5626084],
-                [58.76266229,84.7748392,156.4010814]]
-
+capacity_data=[[12.38452099,12.38452099,12.38452099,12.38452099,12.38452099],
+               [25.24151059,25.24151059,25.24151059,25.24151059,24.49468339],
+               [45.31383559,45.31383559,45.31383559,45.31383559,44.56700839],
+               [64.18503903,64.94884105,68.83140505,69.91355421,79.5840046],
+               [76.4008099,78.8836588,89.0288428,93.36924696,121.6582974],
+               [82.42292446,87.8425229,103.6748429,115.2113516,161.5394334],
+               [80.41621696,89.9042399,111.0747599,130.8812471,194.2004289]]
 
 utilization_level=np.zeros([L_1,1])
 DLC_rate=np.zeros([L_1,1])
@@ -63,7 +62,7 @@ for i in range (tem_sce_num):
 
 print(US_Capacity_1[0])
 
-frozen_data=np.loadtxt(r'D:\2023 Fall\R2 Files\Inputs\Spatial Dirstribution\CUE_last25_spatial.txt',delimiter='\t',dtype='float')  
+frozen_data=np.loadtxt(r'D:\2023 Fall\NS R1 Files\Inputs\Spatial Dirstribution\CUE_last25_spatial.txt',delimiter='\t',dtype='float')  
 states = ["Alabama", "Arizona","Arkansas", "California", "Colorado", "Connecticut", "Delaware", "District of Columbia", "Florida", 
           "Georgia", "Idaho","Illinois", "Indiana","Iowa", "Kansas", "Kentucky", "Louisiana","Maine", "Maryland", "Massachusetts", 
           "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", 
@@ -99,9 +98,9 @@ for i in range (tem_sce_num):
     for j in range (spt_sce_num):
         for k in range (typ_sce_num):
             # import unit emission & water data
-            name=r'D:\2023 Fall\R2 Files\Inputs\Grid Factor\cases_REcon_'+repr(i+1)+'_CUE_last25_CF.txt'
+            name=r'D:\2023 Fall\NS R1 Files\Inputs\Grid Factor\cases_REcon_'+repr(i+1)+'_CUE_last25_CF.txt'
             e_data=np.loadtxt(name,delimiter=' ',dtype='float')
-            name=r'D:\2023 Fall\R2 Files\Inputs\Grid Factor\cases_REcon_'+repr(i+1)+'_CUE_last25_WF.txt'
+            name=r'D:\2023 Fall\NS R1 Files\Inputs\Grid Factor\cases_REcon_'+repr(i+1)+'_CUE_last25_WF.txt'
             w_data=np.loadtxt(name,delimiter=' ',dtype='float')
             emission_data=np.zeros([L_1,L_2])
             water_data=np.zeros([L_1,L_2])
@@ -123,7 +122,7 @@ for i in range (tem_sce_num):
             WaterUsage_D=np.zeros([L_1,L_2])
             CarbonEmission=np.zeros([L_1,L_2])
             flag=0
-            with open(r'D:\2023 Fall\R2 Files\Inputs\Worst_PUE.csv', newline='') as csvfile:
+            with open(r'D:\2023 Fall\NS R1 Files\Inputs\Worst_PUE.csv', newline='') as csvfile:
                 spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
                 for row in spamreader:
                     if flag ==0:
