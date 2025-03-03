@@ -24,12 +24,12 @@ To run the codes in this repository, the following Python and core packages must
 
 ## Data
 - **PUE and WUE values of each state in the U.S.**: Best_PUE.csv, Best_WUE.csv, Baseline_PUEWUE.csv, Worst_PUE.csv, Worst_WUE.csv
-- **Carbon emission per unit of electricity data of each U.S. region from 2024 to 2030**: txt files with CF notation
-- **Water usage per unit of electricity data of each U.S. region from 2024 to 2030**: txt files with WF notation
-- **Spatial allocation ratio of each U.S. states**: txt files with spatial notation
-- **Settings for generating the grid factors through the ReEDs model**: cases_R2.csv
+- **Carbon emission per unit of electricity data of each U.S. region from 2024 to 2030**: txt files with CF notation in the Grid Factor folder
+- **Water usage per unit of electricity data of each U.S. region from 2024 to 2030**: txt files with WF notation in the Grid Factor folder
+- **Spatial allocation ratio of each U.S. states**: txt files with spatial notation in the Spatial Distribution folder
+- **Settings for generating the grid factors through the ReEDs model**: cases_R3.csv in the Grid Factor folder
 - **Collected AI data center locations**: csv file with AI data center notation
-- **Example files of ReEDS model output**: emit_r.csv, gen_ann.csv, water_consumption_ivrt.csv
+- **Example files of ReEDS model output**: emit_r.csv, gen_ann.csv, water_consumption_ivrt.csv in the Grid Factor folder
 
 ## Running the code
 ### Running the base case
