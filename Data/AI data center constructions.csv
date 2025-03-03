@@ -1,0 +1,147 @@
+﻿Company,Project name,State,Size,Year,Estimated or not
+Google,Dalles 5,OR,290000,2026,
+Google,CBS 7,IA,285000,2025,
+Google,Omaha 4,NE,290000,2025,
+Google,Omaha 3,NE,290000,2025,
+Google,"Cedar Rapids, Iowa",IA,291747,2026,*
+Google,Mesa (Redhawk 2),AZ,250000,2026,
+Google,Midlothian 4,TX,170600,2025,
+Google,Kansas City,MO,359000,2025,
+Google,Lincoln NE,NE,291747,2025,*
+Google,Kansas City 4,MO,359000,2028,
+Google,Kansas City 3,MO,359000,2027,
+Google,Mesa (Redhawk 1),AZ,500000,2025,
+Google,Kansas City 2,MO,359000,2026,
+Google,Rocky Branch Creek,MO,208000,2025,
+Google,Midlothian 3,TX,288600,2025,
+Google,"Ridgeville, SC",SC,291747,2025,*
+Google,Lenoir 3,NC,337000,2027,
+Google,Lenoir 2,NC,337000,2027,
+Google,Berkeley 11,SC,170000,2026,
+Google,Lockbourne 3,OH,290000,2025,
+Google,Winding Woods,SC,291747,2025,*
+Meta,Kuna ID,ID,960000,2025,
+Meta,Cheyenne 2,WY,357500,2030,
+Meta,Cheyenne,WY,357500,2027,
+Meta,Eagle 6 and 7,UT,2000000,2025,
+Meta,Temple TX,TX,900000,2025,
+Meta,Henrico 6,VA,474000,2026,*
+Meta,Henrico 7,VA,474000,2026,*
+Meta,Gallatin 5,TN,410500,2025,*
+Meta,"Montgomery, Alabama",AL,715000,2026,
+Meta,"Jeffersonville, IN",IN,700000,2026,
+Meta,"Aiken County, SC",SC,715000,2027,
+Microsoft,Ginger East Bldg 3,IA,245000,2026,
+Microsoft,Project Ruthenium,IA,245000,2026,
+Microsoft,Ginger West Bldg 2,IA,1800000,2026,
+Microsoft,Ginger East Bldg 2,IA,245000,2025,
+Microsoft,EAT13,WA,245000,2026,
+Microsoft,EAT12,WA,245000,2026,
+Microsoft,EAT06,WA,250530,2026,
+Microsoft,EAT04,WA,244440,2025,
+Microsoft,EAT09,WA,250530,2027,
+Microsoft,EAT05,WA,237337,2025,
+Microsoft,Ginger East Bldg 5,IA,245000,2028,
+Microsoft,EAT 14,WA,245000,2027,*
+Microsoft,Soteria Ave,IA,184600,2026,
+Microsoft,Ginger East Bldg 4,IA,245000,2027,
+Microsoft,Osmium Bldg 5,IA,250000,2025,
+Microsoft,Cherry Valley,IL,291747,2030,*
+Microsoft,Elk Grove ,IL,400000,2026,
+Microsoft,Hoffman Estates 2,IL,250000,2025,
+Microsoft,la Porte,IN,245000,2026,
+Microsoft,Mount Pleasant,WI,334000,2026,
+Microsoft,Mishawaka,IN,291747,2028,*
+Microsoft,Elk Grove 3,IL,400000,2027,
+Microsoft,Little Rock,IL,291747,2025,*
+Microsoft,SAT 15,TX,245000,2025,
+Microsoft,SAT 16,TX,245000,2026,
+Microsoft,Northern Parkway,AZ,250000,2025,
+Microsoft,SAT81,TX,106000,2028,
+Microsoft,SAT82,TX,106000,2025,
+Microsoft,El Mirage,AZ,245000,2026,
+Microsoft,PHX13,AZ,244335,2025,*
+Microsoft,PHX14,AZ,244335,2026,*
+Microsoft,N Pkwy DC2,AZ,250000,2027,
+Microsoft,N Pkwy DC3,AZ,250000,2025,
+Microsoft,"Denver, CO",CO,1100000,2028,
+Microsoft,Union City Bldg 2,GA,612000,2025,
+Microsoft,Douglasville 2,GA,245000,2029,
+Microsoft,Union City Bldg 3,GA,612000,2026,
+Microsoft,"Refugee Rd, Pataskala",OH,291747,2027,*
+Microsoft,"Rome, GA",GA,291747,2025,*
+Microsoft,Palmetto,GA,291747,2025,*
+Microsoft,IAD12,VA,148233,2025,
+Microsoft,Stover (Hickory NC),NC,291747,2028,*
+Microsoft,Heath Campus,OH,291747,2027,*
+Microsoft,3287 Beech Rd,OH,245000,2025,
+Microsoft,IAD13,VA,102022,2027,
+Microsoft,Gainesville,VA,291747,2025,*
+Microsoft,Jacksonville Road (MNZ01),VA,623360,2026,
+Microsoft,East Point,GA,291747,2025,*
+Microsoft,Boyd Farms (Maiden NC),NC,291747,2026,*
+Microsoft,MNZ02,VA,623360,2025,
+Microsoft,"Clarksville, VA",VA,291747,2025,*
+Microsoft,Douglasville 3,GA,245000,2027,
+Microsoft,Hebron,OH,291747,2026,*
+AWS,Penney (Building D),OR,210000,2026,*
+AWS,Penney (Building C),OR,210000,2026,*
+AWS,80939 Powerline,OR,291747,2025,*
+AWS,"Becker, MN",MN,291747,2027,*
+AWS,Bombing 4,OR,215461,2026,
+AWS,Bombing 2,OR,215461,2025,
+AWS,Bombing 3,OR,215461,2025,
+AWS,Penny (Building B),OR,210000,2025,*
+AWS,"New Carlisle, IN",IN,216000,2025,
+AWS,New Carlisle 4,IN,216000,2025,
+AWS,New Carlisle 3,IN,216000,2025,
+AWS,New Carlisle 2,IN,216000,2025,
+AWS,New Carlisle Expansion,IN,291747,2026,*
+AWS,Costas Campus,MS,291747,2027,*
+AWS,"Desoto, TX",TX,30000,2025,
+AWS,Madison County Mega Site Campus,MS,291747,2027,*
+AWS,ALE062,TX,109600,2026,*
+AWS,2305 Mission Bldg B,CA,229974,2026,
+AWS,Dobbins Campus,AZ,291747,2028,*
+AWS,Cosner Tech Campus,VA,260000,2025,
+AWS,Potomac Church Campus,VA,255000,2026,
+AWS,IAD-503,VA,535000,2028,
+AWS,IAD-501,VA,535000,2027,
+AWS,IAD-502,VA,535000,2027,
+AWS,Industrial 3,OH,220000,2026,
+AWS,Scioto Darby 6,OH,222333,2027,*
+AWS,Stevensburg,VA,213500,2026,*
+AWS,7951 Loisdale,VA,291747,2025,
+AWS,Stevensburg Bldg B,VA,213500,2027,*
+AWS,Potomac DC2,VA,255000,2028,
+AWS,Industrial 4,OH,220000,2027,
+AWS,7961 Loisdale,VA,120000,2025,*
+AWS,Cosner Tech Bldg B,VA,260000,2027,
+AWS,Lake Anna Bldg 5,VA,185000,2029,
+AWS,Summit Crossing Tech Campus,VA,900000,2026,
+AWS,Nokesville Road Campus,VA,250000,2025,
+AWS,Beech and Miller roads,OH,1250000,2030,
+AWS,Carter's Store Tech Campus,VA,900000,2028,
+AWS,2775 Newton,OH,291747,2025,
+AWS,5945 Wellington,VA,2200000,2026,*
+AWS,Lake Anna Bldg 3,VA,185000,2028,
+AWS,Mattameade Tech Campus,VA,600000,2026,
+AWS,Scioto Darby 5,OH,222333,2027,
+AWS,Scioto Darby 3,OH,222333,2026,*
+AWS,41992 John Mosby Highway,VA,235320,2025,*
+AWS,Scioto Darby 7,OH,222333,2028,
+AWS,Scioto Darby 2,OH,222333,2025,*
+AWS,14721 Avion Pkwy,VA,291747,2025,*
+AWS,42139 Reeds Farm Lane,VA,268620,2026,*
+AWS,Lake Anna Bldg 4,VA,185000,2028,
+AWS,Lake Anna Bldg 2,VA,185000,2027,
+AWS,2875 Newton,OH,291747,2026,
+AWS,"Warrenton, VA",VA,220000,2026,*
+AWS,EDS (Bldg D),VA,222333,2025,
+AWS,Lake Anna Tech Campus,VA,185000,2025,
+AWS,Village Place 4,VA,255000,2025,
+AWS,Scioto Darby 4,OH,222333,2026,
+AWS,EDS (Bldg C),VA,222333,2025,*
+AWS,3180 Beech DC2,OH,220000,2025,
+AWS,Industrial 2,OH,220000,2025,*
+AWS,IAD-500,VA,535000,2026,*
