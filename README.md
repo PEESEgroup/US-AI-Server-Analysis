@@ -11,7 +11,7 @@ To run the codes in this repository, the following Python and core packages must
 - csv 1.0
 - cyipopt 1.1.0
 - ReEDs 2.0 (specific settings,installations and computing resource requirements can be found in https://github.com/NREL/ReEDS-2.0)
-The above can be conveniently downloaded through open-source library within a few hours on a normal computer. There is no specific computing resource requirements to run the main codes, which can be runned on normal computer within a few seconds.
+- The above can be conveniently downloaded through open-source library within a few hours on a normal computer. There is no specific computing resource requirements to run the main codes, which can be runned on normal computer within a few seconds.
 
 ## Codes
 - **Best&Worst PUE and WUE.py**: This file contains the calculation process for generating the best and worst PUE and WUE cases for AI data centers.
