@@ -53,8 +53,7 @@ for i in range (tem_sce_num):
     for j in range (L_1):
         exec('Capacity_'+repr(i+1)+'.append(capacity_data[j][i]*1e3*u_level[j]/utilization_level[j])')
 
-# spatial allocation scenarios: (1) current data center capacity; (2) uniform allocation
-# US ratio
+# spatial allocation scenarios and US ratio
 for i in range (tem_sce_num):
     exec('US_Capacity_'+repr(i+1)+'=[]')
     for i1 in range (L_1):
