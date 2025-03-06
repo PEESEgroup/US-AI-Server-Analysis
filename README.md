@@ -44,3 +44,7 @@ Please use the following citation when using the data, methods or results of thi
 
 Xiao, T., Fuso-Nerini, F., Matthews, D., Tavoni, M., You, F., Sustainable AI Servers In the U.S.: Environmental Impact and Net-Zero Pathways. Submitted to Nature Sustainability.
 
+## License
+This project is covered under the **Apache 2.0 License**.
+
+
