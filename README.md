@@ -42,7 +42,7 @@ The other "Main" files can be used to run the best and worst practices consideri
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
 
-Xiao, T., Fuso-Nerini, F., Matthews, D., Tavoni, M., You, F., Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA. Accepted by Nature Sustainability. doi:10.1038/s41893-025-01681-y 
+Xiao, T., Nerini, F. F., Matthews, H. D., Tavoni, M., & You, F. (2025). Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA. Nature Sustainability, 1-13.
 
 ## License
 This project is covered under the **Apache 2.0 License**.
