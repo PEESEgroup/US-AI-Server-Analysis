@@ -17,7 +17,6 @@ The above packages can be conveniently downloaded through open-source library wi
 ## Codes
 - **Best&Worst PUE and WUE.py**: This file contains the calculation process for generating the best and worst PUE and WUE cases for AI data centers.
 - **simulation_funs_DC_i.py**: This file defines the basic functions for evaluating the PUE and WUE values of AI data centers.
-- **LoadFile.py**: This file edit the baseline load file provided by the ReEDs 2.0 model (specific settings can be found in https://github.com/NREL/ReEDS-2.0) by involving AI server loads.
 - **Main_Base_Scenario.py**: This file runs a base case for estimating the energy/water/carbon footprints of AI servers in the U.S. from 2024 to 2030.
 - **Main_Best_Carbon_Scenario.py**: This file runs best carbon emission practice scenarios for AI servers in the U.S. from 2024 to 2030.
 - **Main_Worst_Carbon_Scenario.py**: This file runs worst carbon emission practice scenarios for AI servers in the U.S. from 2024 to 2030.
